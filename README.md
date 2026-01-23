@@ -8,4 +8,5 @@ JavaFX Sudoku game with Easy, Medium, and Hard puzzles.
 - Solve button to reveal the completed puzzle
 - Win detection when the puzzle is correctly completed
 
-## Technologies: Java, JavaFX
+## Technologies: 
+Java, JavaFX
